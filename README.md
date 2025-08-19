@@ -44,7 +44,7 @@ No external libraries needed—just the built-in `random` and `time` modules.
 ## 🏃‍♂️ How to Run
 
 1. Make sure you have Python installed.
-2. Save the script as `draft_order.py`.
+2. Save the script as `order.py`.
 3. Run it from your terminal or command prompt:
 
 ```bash
